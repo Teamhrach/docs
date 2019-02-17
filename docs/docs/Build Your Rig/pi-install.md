@@ -190,4 +190,4 @@ Return to the [OpenAPS Install page](http://openaps.readthedocs.io/en/latest/doc
 
 **If you are installing to a Pi with a legacy radio (Ti-stick, SliceOfRadio, etc.) - Press enter. [Jump to finishing the installation](pi-install.md#finish-installation)**
 
-**If you are installing to a newer Pi with a HAT as radio: Do not press enter!  [Continue on to Pi-Hat instructions.](pi-install.md#switch-to-dev-branch-for-your-pi-hat).**
+**If you are installing to a newer Pi with a HAT as radio: Do not press enter!  [Continue on to Pi-Hat instructions.] THIS LINK IS BROKEN (pi-install.md#switch-to-dev-branch-for-your-pi-hat).** 
